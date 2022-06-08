@@ -6,3 +6,7 @@ func Subtract(x, y int) int {
 func Add(x, y int) int {
 	return x + y
 }
+
+func Multiple(x, y int) int {
+	return x * y
+}
